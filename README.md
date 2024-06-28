@@ -23,13 +23,9 @@
 
 
 ## 使用方法
-- **确保requirements.txt中的软件包已安装**
+- **运行install.sh，安装软件包：**
 ```bash
-pip install -r requirements.txt
-```
-- **确保Textin_tester-0.1.whl已安装**
-```bash
-pip install Textin_tester-0.1-py3-none-any.whl
+./install.sh
 ```
 - **待测评样本按照下述方式放置：**
 
