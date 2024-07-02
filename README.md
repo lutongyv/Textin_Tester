@@ -1,5 +1,5 @@
 # Markdown Tester
-🛑本仓库暂不继续维护，更多内容详见[intsig_markdown_tester](https://github.com/intsig/markdown_tester)
+## 本项目后续维护迁移至 https://github.com/intsig/markdown_tester 
 <hr/>
 该测评脚本用于评价markdown文档相似性，从段落、标题、表格和公式四个维度进行评价：
 
